@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LearningAS</string>
+    <string name="button_text">Show</string>
+    <string name="else_message">Please enter some text</string>
+</resources>
+<!--where our text for the app will be so u don't have to be hardcoding it up nd down -->
